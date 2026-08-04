@@ -42,8 +42,8 @@ Explanation: The result cannot be 2, because [-2,-1] is not a subarray.
 
 **Language:** C++  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 17.8 MB (beats 60.90%)  
-**Submitted:** 2026-08-04T10:01:54.125Z  
+**Memory:** 17.8 MB (beats 24.11%)  
+**Submitted:** 2026-08-04T10:06:18.063Z  
 
 ```cpp
 class Solution {
